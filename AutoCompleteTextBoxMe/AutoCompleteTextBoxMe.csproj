@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ServiceStack" Version="3.9.71" />
+    <PackageReference Include="ServiceStack.OrmLite.Sqlite32" Version="3.9.71" />
+    <PackageReference Include="System.Data.Sqlite.x86" Version="1.0.88" />
+  </ItemGroup>
+
+</Project>

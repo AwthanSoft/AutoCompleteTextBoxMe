@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoCompleteTextBoxMe", "AutoCompleteTextBoxMe\AutoCompleteTextBoxMe.csproj", "{B3E02C03-5ECE-46E1-A3E7-ED452887041D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoCompleteTextBoxMe.WPF", "AutoCompleteTextBoxMe.WPF\AutoCompleteTextBoxMe.WPF.csproj", "{C05C1A83-CCD4-49F0-AC4A-45A17B048D4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3E02C03-5ECE-46E1-A3E7-ED452887041D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3E02C03-5ECE-46E1-A3E7-ED452887041D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3E02C03-5ECE-46E1-A3E7-ED452887041D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3E02C03-5ECE-46E1-A3E7-ED452887041D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C05C1A83-CCD4-49F0-AC4A-45A17B048D4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C05C1A83-CCD4-49F0-AC4A-45A17B048D4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C05C1A83-CCD4-49F0-AC4A-45A17B048D4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C05C1A83-CCD4-49F0-AC4A-45A17B048D4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3D41C94-5AE1-4578-B715-5500A56E29A4}
+	EndGlobalSection
+EndGlobal
