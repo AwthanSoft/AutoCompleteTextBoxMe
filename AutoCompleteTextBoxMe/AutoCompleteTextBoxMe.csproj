@@ -2,6 +2,10 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Version>21.08.22.0</Version>
+    <Company>AwthanSoft</Company>
+    <Copyright>Copyright ©  2021</Copyright>
+    <Authors>AwthanSoft</Authors>
   </PropertyGroup>
 
   <ItemGroup>
