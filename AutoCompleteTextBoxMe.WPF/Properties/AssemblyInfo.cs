@@ -11,8 +11,8 @@ using System.Windows;
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("AwthanSoft")]
-[assembly: AssemblyProduct("AutoCompleteTextBoxMe.WPF")]
-[assembly: AssemblyCopyright("Copyright ©  2021")]
+[assembly: AssemblyProduct("Mawa AutoComplete TextBox WPF")]
+[assembly: AssemblyCopyright("© 2021-2022 AwthanSoft")]
 [assembly: AssemblyTrademark("Awthan")]
 [assembly: AssemblyCulture("")]
 
@@ -51,5 +51,6 @@ using System.Windows;
 // You can specify all the values or you can default the Build and Revision Numbers
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("21.08.22.0")]
-[assembly: AssemblyFileVersion("21.08.22.0")]
+[assembly: AssemblyVersion("22.9.7.1")]
+[assembly: AssemblyFileVersion("22.9.7.1")]
+[assembly: NeutralResourcesLanguage("en-US")]

@@ -2,10 +2,16 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <Version>21.08.22.0</Version>
+    <Version>22.9.7</Version>
     <Company>AwthanSoft</Company>
-    <Copyright>Copyright ©  2021</Copyright>
+    <Copyright>© 2021-2022 AwthanSoft</Copyright>
     <Authors>AwthanSoft</Authors>
+    <PackageId>Mawa.AutoCompleteTextBoxMe</PackageId>
+    <AssemblyVersion>22.9.7.1</AssemblyVersion>
+    <FileVersion>22.9.7.1</FileVersion>
+    <Product>Mawa AutoComplete TextBox</Product>
+    <RepositoryUrl>https://github.com/AwthanSoft/AutoCompleteTextBoxMe</RepositoryUrl>
+    <RepositoryType>github</RepositoryType>
   </PropertyGroup>
 
 </Project>
